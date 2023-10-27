@@ -119,11 +119,6 @@ export default function ChatContainer() {
         </div>
         : <UserLogin setUser={setUser} />
         }
-
-    <div style={{margin:10 , display:'flex', justifyContent:'center'}} >
-    <small style={{backgroundColor:'lightblue' , padding:5 , borderRadius:5}} >Interested in some 1 on 1 Coding Tutorials and Mentorship. Lets chat on Discord: <strong> kutlo_sek#5370 </strong></small>
-        
-    </div>
      
     </div>
   )
