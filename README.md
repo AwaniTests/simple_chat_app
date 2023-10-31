@@ -9,7 +9,7 @@ sudo npm install pm2@latest -g
 
 mkdir ChatApp
 cd ChatApp
-git clone 
+git clone https://github.com/AwaniTests/simple_chat_app.git
 
 cd simple_chat_app/client
 npm install
